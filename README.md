@@ -1,2 +1,2 @@
 # 100DAYsCSS
-100 days of CSS challenges (in progress...)
+100 dias de desafios CSS. (em andamento ...)
